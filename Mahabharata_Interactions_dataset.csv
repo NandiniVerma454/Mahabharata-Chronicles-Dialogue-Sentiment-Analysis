@@ -1,0 +1,201 @@
+Episode,Timestamp,Character,Dialogue,Interaction With,Sentiment
+1,53:43:38,Karna,Bloodshed will bring no peace.,Pandavas,Negative
+1,15:26:59,Krishna,Revenge is a dish best served cold.,Bhishma,Neutral
+1,40:39:18,Karna,May truth always triumph!,Shakuni,Positive
+1,39:34:11,Arjuna,Justice must prevail.,Bhishma,Positive
+1,19:45:21,Ashwatthama,Revenge is a dish best served cold.,Karna,Negative
+1,00:31:52,Krishna,Dharma is above all.,Gandhari,Neutral
+1,38:35:51,Bheema,Victory will be ours!,Krishna,Positive
+1,31:59:03,Duryodhana,Strength alone does not win wars.,Kauravas,Positive
+1,22:47:14,Arjuna,Fate favors the brave.,Karna,Positive
+1,22:13:50,Shakuni,Treachery has no place in dharma.,Draupadi,Positive
+2,56:12:56,Bhishma,"I seek guidance, Krishna.",Arjuna,Negative
+2,31:26:59,Arjuna,War is inevitable.,Gandhari,Negative
+2,30:58:21,Shakuni,Your arrogance will be your downfall.,Yudhishthira,Negative
+2,32:45:51,Bheema,Let the war decide our fate.,Yudhishthira,Neutral
+2,44:52:09,Gandhari,Revenge is a dish best served cold.,Arjuna,Positive
+2,22:12:46,Duryodhana,May truth always triumph!,Krishna,Neutral
+2,05:58:09,Gandhari,Fate favors the brave.,Duryodhana,Negative
+2,22:10:53,Krishna,Let the war decide our fate.,Ashwatthama,Neutral
+2,19:53:11,Arjuna,Strength alone does not win wars.,Pandavas,Neutral
+2,30:20:59,Ashwatthama,Strength alone does not win wars.,Pandavas,Neutral
+3,53:42:18,Krishna,Your arrogance will be your downfall.,Draupadi,Negative
+3,22:43:38,Ashwatthama,Your arrogance will be your downfall.,Yudhishthira,Positive
+3,33:18:37,Gandhari,The future is uncertain.,Bheema,Neutral
+3,49:53:49,Karna,Let the war decide our fate.,Arjuna,Positive
+3,37:54:03,Shakuni,A woman's honor is her dignity.,Pandavas,Positive
+3,02:12:05,Bheema,I fight for righteousness.,Karna,Neutral
+3,40:07:57,Draupadi,"I seek guidance, Krishna.",Kauravas,Negative
+3,55:28:15,Krishna,The mind is the greatest weapon.,Gandhari,Neutral
+3,04:35:17,Gandhari,War is inevitable.,Shakuni,Neutral
+3,48:04:07,Shakuni,May truth always triumph!,Karna,Positive
+4,06:55:01,Gandhari,Let the war decide our fate.,Kauravas,Negative
+4,21:11:38,Yudhishthira,The future is uncertain.,Bheema,Neutral
+4,54:45:33,Karna,A woman's honor is her dignity.,Ashwatthama,Positive
+4,03:19:18,Arjuna,"I seek guidance, Krishna.",Karna,Neutral
+4,18:48:32,Ashwatthama,Strength alone does not win wars.,Bhishma,Positive
+4,28:29:13,Yudhishthira,Fate favors the brave.,Karna,Negative
+4,40:12:58,Gandhari,Strength alone does not win wars.,Pandavas,Neutral
+4,26:50:53,Arjuna,War is inevitable.,Gandhari,Negative
+4,00:27:19,Shakuni,Let the war decide our fate.,Ashwatthama,Neutral
+4,10:06:07,Shakuni,May truth always triumph!,Duryodhana,Negative
+5,45:37:37,Bhishma,May truth always triumph!,Arjuna,Neutral
+5,36:35:01,Bhishma,Dharma is above all.,Gandhari,Neutral
+5,33:39:24,Krishna,Your arrogance will be your downfall.,Kauravas,Neutral
+5,15:30:55,Bhishma,I fight for righteousness.,Arjuna,Positive
+5,34:47:14,Gandhari,What is written in destiny shall happen.,Arjuna,Neutral
+5,46:55:47,Duryodhana,Treachery has no place in dharma.,Krishna,Negative
+5,29:09:00,Gandhari,Strength alone does not win wars.,Ashwatthama,Positive
+5,41:49:20,Arjuna,Fate favors the brave.,Duryodhana,Positive
+5,17:15:45,Bheema,The future is uncertain.,Kauravas,Negative
+5,03:20:01,Draupadi,I will not give an inch of land!,Shakuni,Negative
+6,02:00:35,Arjuna,Bloodshed will bring no peace.,Pandavas,Positive
+6,19:20:05,Bheema,I fight for righteousness.,Ashwatthama,Positive
+6,50:20:50,Gandhari,What is written in destiny shall happen.,Arjuna,Positive
+6,26:14:50,Draupadi,A king must uphold justice.,Arjuna,Neutral
+6,31:30:20,Duryodhana,I will not give an inch of land!,Karna,Positive
+6,59:04:23,Ashwatthama,Your arrogance will be your downfall.,Yudhishthira,Neutral
+6,19:29:17,Shakuni,Treachery has no place in dharma.,Bhishma,Positive
+6,57:28:51,Bheema,War is inevitable.,Karna,Positive
+6,58:58:28,Bheema,Victory will be ours!,Krishna,Neutral
+6,05:32:46,Shakuni,A woman's honor is her dignity.,Draupadi,Neutral
+7,56:11:21,Ashwatthama,The throne is mine by birthright!,Krishna,Neutral
+7,31:40:54,Draupadi,No one can defeat fate.,Pandavas,Neutral
+7,46:57:46,Draupadi,A woman's honor is her dignity.,Krishna,Negative
+7,21:20:22,Karna,Bloodshed will bring no peace.,Ashwatthama,Negative
+7,36:01:56,Shakuni,Dharma is above all.,Pandavas,Positive
+7,16:34:05,Arjuna,Your arrogance will be your downfall.,Shakuni,Positive
+7,32:07:12,Arjuna,What is written in destiny shall happen.,Shakuni,Neutral
+7,10:26:11,Karna,What is written in destiny shall happen.,Gandhari,Positive
+7,17:26:47,Duryodhana,A woman's honor is her dignity.,Pandavas,Neutral
+7,34:41:20,Ashwatthama,A woman's honor is her dignity.,Draupadi,Positive
+8,57:13:07,Yudhishthira,What is written in destiny shall happen.,Ashwatthama,Positive
+8,23:32:06,Yudhishthira,"I seek guidance, Krishna.",Pandavas,Positive
+8,47:38:15,Krishna,"I seek guidance, Krishna.",Ashwatthama,Positive
+8,57:33:52,Ashwatthama,Fate favors the brave.,Duryodhana,Neutral
+8,31:24:22,Krishna,No one can defeat fate.,Kauravas,Negative
+8,22:16:44,Karna,The mind is the greatest weapon.,Yudhishthira,Neutral
+8,03:12:20,Bhishma,Treachery has no place in dharma.,Pandavas,Positive
+8,27:48:05,Yudhishthira,I fight for righteousness.,Pandavas,Negative
+8,59:28:37,Gandhari,War is inevitable.,Bheema,Neutral
+8,56:30:01,Shakuni,No one can defeat fate.,Ashwatthama,Negative
+9,59:07:26,Arjuna,A woman's honor is her dignity.,Kauravas,Negative
+9,38:24:36,Krishna,Strength alone does not win wars.,Kauravas,Negative
+9,14:02:50,Bheema,"I seek guidance, Krishna.",Shakuni,Negative
+9,34:28:32,Ashwatthama,Your arrogance will be your downfall.,Yudhishthira,Negative
+9,51:04:38,Ashwatthama,Victory will be ours!,Krishna,Positive
+9,57:07:11,Shakuni,Bloodshed will bring no peace.,Gandhari,Positive
+9,49:37:32,Ashwatthama,Justice must prevail.,Pandavas,Positive
+9,36:30:19,Karna,The throne is mine by birthright!,Yudhishthira,Neutral
+9,35:01:41,Ashwatthama,Victory will be ours!,Draupadi,Positive
+9,18:04:36,Arjuna,Victory will be ours!,Gandhari,Positive
+10,30:12:46,Arjuna,I will not give an inch of land!,Gandhari,Neutral
+10,27:49:28,Bheema,Fate favors the brave.,Shakuni,Positive
+10,19:26:45,Karna,"I seek guidance, Krishna.",Gandhari,Neutral
+10,37:34:49,Gandhari,Dharma is above all.,Pandavas,Positive
+10,49:16:30,Shakuni,What is written in destiny shall happen.,Bheema,Positive
+10,37:24:59,Arjuna,May truth always triumph!,Shakuni,Neutral
+10,54:12:23,Ashwatthama,No one can defeat fate.,Draupadi,Positive
+10,40:57:53,Ashwatthama,Let the war decide our fate.,Yudhishthira,Positive
+10,53:09:48,Krishna,Your arrogance will be your downfall.,Arjuna,Neutral
+10,37:08:54,Duryodhana,The throne is mine by birthright!,Bheema,Negative
+11,25:01:06,Arjuna,The future is uncertain.,Yudhishthira,Positive
+11,21:44:58,Bhishma,I fight for righteousness.,Ashwatthama,Neutral
+11,29:50:52,Arjuna,What is written in destiny shall happen.,Kauravas,Negative
+11,58:20:49,Krishna,Justice must prevail.,Bheema,Neutral
+11,37:03:25,Shakuni,The throne is mine by birthright!,Duryodhana,Positive
+11,33:23:37,Bhishma,A king must uphold justice.,Karna,Positive
+11,34:04:03,Krishna,I will not give an inch of land!,Gandhari,Positive
+11,53:43:54,Bheema,Let the war decide our fate.,Gandhari,Positive
+11,15:46:01,Duryodhana,Revenge is a dish best served cold.,Bheema,Neutral
+11,37:50:25,Yudhishthira,May truth always triumph!,Bhishma,Positive
+12,04:23:21,Krishna,The future is uncertain.,Draupadi,Negative
+12,53:26:48,Draupadi,A woman's honor is her dignity.,Ashwatthama,Positive
+12,47:36:33,Shakuni,The throne is mine by birthright!,Arjuna,Positive
+12,23:55:24,Karna,A woman's honor is her dignity.,Shakuni,Negative
+12,08:26:05,Yudhishthira,Strength alone does not win wars.,Bhishma,Neutral
+12,45:00:40,Arjuna,Victory will be ours!,Duryodhana,Positive
+12,30:18:27,Duryodhana,Your arrogance will be your downfall.,Bhishma,Neutral
+12,20:28:37,Karna,The future is uncertain.,Krishna,Neutral
+12,55:29:28,Ashwatthama,The mind is the greatest weapon.,Bhishma,Negative
+12,50:22:44,Arjuna,I fight for righteousness.,Duryodhana,Neutral
+13,46:32:31,Yudhishthira,May truth always triumph!,Shakuni,Neutral
+13,48:35:19,Bhishma,What is written in destiny shall happen.,Krishna,Positive
+13,43:05:38,Duryodhana,Justice must prevail.,Krishna,Negative
+13,29:42:37,Yudhishthira,Bloodshed will bring no peace.,Arjuna,Positive
+13,04:43:28,Krishna,Treachery has no place in dharma.,Pandavas,Neutral
+13,05:28:56,Arjuna,Strength alone does not win wars.,Kauravas,Neutral
+13,50:38:08,Yudhishthira,A king must uphold justice.,Arjuna,Negative
+13,23:23:50,Ashwatthama,"I seek guidance, Krishna.",Draupadi,Positive
+13,18:43:32,Karna,I fight for righteousness.,Duryodhana,Neutral
+13,31:32:57,Bheema,Your arrogance will be your downfall.,Gandhari,Positive
+14,08:04:46,Ashwatthama,The mind is the greatest weapon.,Karna,Negative
+14,49:43:37,Ashwatthama,Victory will be ours!,Arjuna,Positive
+14,04:03:40,Gandhari,War is inevitable.,Pandavas,Neutral
+14,56:52:44,Ashwatthama,Victory will be ours!,Bheema,Neutral
+14,53:51:07,Bhishma,Bloodshed will bring no peace.,Shakuni,Neutral
+14,01:55:04,Arjuna,War is inevitable.,Karna,Neutral
+14,08:07:53,Shakuni,Bloodshed will bring no peace.,Pandavas,Positive
+14,39:17:59,Ashwatthama,What is written in destiny shall happen.,Yudhishthira,Neutral
+14,06:42:23,Yudhishthira,Bloodshed will bring no peace.,Krishna,Negative
+14,48:22:34,Yudhishthira,The mind is the greatest weapon.,Bhishma,Positive
+15,01:20:59,Duryodhana,May truth always triumph!,Draupadi,Negative
+15,26:30:47,Shakuni,Bloodshed will bring no peace.,Draupadi,Positive
+15,32:05:42,Karna,Dharma is above all.,Bheema,Negative
+15,25:20:08,Bheema,Strength alone does not win wars.,Kauravas,Negative
+15,29:51:12,Bheema,A woman's honor is her dignity.,Duryodhana,Negative
+15,12:37:59,Karna,Strength alone does not win wars.,Duryodhana,Negative
+15,22:08:20,Yudhishthira,Justice must prevail.,Karna,Neutral
+15,19:29:45,Shakuni,No one can defeat fate.,Draupadi,Neutral
+15,07:21:09,Arjuna,A woman's honor is her dignity.,Yudhishthira,Negative
+15,57:05:39,Karna,War is inevitable.,Gandhari,Positive
+16,36:37:54,Draupadi,I fight for righteousness.,Shakuni,Negative
+16,10:27:06,Gandhari,Treachery has no place in dharma.,Arjuna,Negative
+16,45:45:15,Gandhari,Treachery has no place in dharma.,Krishna,Negative
+16,53:17:04,Bheema,"I seek guidance, Krishna.",Krishna,Neutral
+16,46:22:00,Bhishma,Bloodshed will bring no peace.,Krishna,Negative
+16,11:24:18,Karna,Fate favors the brave.,Arjuna,Positive
+16,40:21:41,Ashwatthama,The mind is the greatest weapon.,Bhishma,Neutral
+16,27:44:58,Bheema,Let the war decide our fate.,Krishna,Positive
+16,56:09:05,Gandhari,A woman's honor is her dignity.,Krishna,Negative
+16,30:04:14,Gandhari,May truth always triumph!,Yudhishthira,Negative
+17,43:33:23,Gandhari,I will not give an inch of land!,Kauravas,Positive
+17,35:46:00,Duryodhana,Let the war decide our fate.,Yudhishthira,Neutral
+17,28:24:12,Shakuni,War is inevitable.,Krishna,Neutral
+17,06:16:21,Yudhishthira,I will not give an inch of land!,Pandavas,Neutral
+17,18:54:38,Gandhari,"I seek guidance, Krishna.",Shakuni,Negative
+17,47:09:17,Gandhari,No one can defeat fate.,Shakuni,Positive
+17,52:25:45,Duryodhana,No one can defeat fate.,Yudhishthira,Neutral
+17,09:39:31,Gandhari,No one can defeat fate.,Arjuna,Negative
+17,27:17:08,Krishna,Justice must prevail.,Duryodhana,Neutral
+17,58:46:49,Yudhishthira,The throne is mine by birthright!,Krishna,Negative
+18,17:27:38,Bhishma,A king must uphold justice.,Ashwatthama,Neutral
+18,28:43:45,Arjuna,Let the war decide our fate.,Duryodhana,Positive
+18,36:16:30,Bheema,Treachery has no place in dharma.,Shakuni,Negative
+18,10:15:10,Shakuni,Victory will be ours!,Bheema,Negative
+18,19:30:37,Duryodhana,Strength alone does not win wars.,Bheema,Negative
+18,09:58:47,Shakuni,Strength alone does not win wars.,Bheema,Positive
+18,56:09:05,Draupadi,May truth always triumph!,Pandavas,Negative
+18,30:22:18,Bhishma,Dharma is above all.,Draupadi,Positive
+18,29:10:24,Arjuna,Victory will be ours!,Yudhishthira,Negative
+18,54:38:10,Karna,Victory will be ours!,Shakuni,Positive
+19,31:08:26,Draupadi,I will not give an inch of land!,Karna,Positive
+19,19:11:06,Arjuna,Victory will be ours!,Ashwatthama,Positive
+19,26:31:14,Karna,May truth always triumph!,Yudhishthira,Positive
+19,36:56:20,Gandhari,The future is uncertain.,Duryodhana,Neutral
+19,55:24:25,Karna,Fate favors the brave.,Kauravas,Positive
+19,37:54:20,Shakuni,Revenge is a dish best served cold.,Pandavas,Positive
+19,09:38:22,Shakuni,A king must uphold justice.,Gandhari,Negative
+19,44:30:12,Shakuni,Let the war decide our fate.,Gandhari,Positive
+19,06:06:16,Yudhishthira,No one can defeat fate.,Bhishma,Neutral
+19,35:46:35,Gandhari,Revenge is a dish best served cold.,Krishna,Negative
+20,59:43:28,Yudhishthira,Victory will be ours!,Bhishma,Neutral
+20,57:44:57,Ashwatthama,Dharma is above all.,Karna,Negative
+20,16:00:05,Ashwatthama,Let the war decide our fate.,Arjuna,Negative
+20,14:28:03,Krishna,War is inevitable.,Kauravas,Negative
+20,56:51:19,Bheema,Strength alone does not win wars.,Kauravas,Negative
+20,57:28:02,Yudhishthira,No one can defeat fate.,Bheema,Negative
+20,18:29:34,Draupadi,"I seek guidance, Krishna.",Arjuna,Negative
+20,00:17:49,Arjuna,I will not give an inch of land!,Bheema,Negative
+20,29:38:45,Duryodhana,Your arrogance will be your downfall.,Krishna,Negative
+20,21:39:36,Arjuna,What is written in destiny shall happen.,Kauravas,Neutral
